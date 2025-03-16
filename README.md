@@ -28,11 +28,3 @@ I'm Levin - a fullstack developer, designer, and student from Germany 🇩🇪. 
 ## 📈 GitHub Stats
 
 [![Fly's GitHub stats](https://github-readme-stats.vercel.app/api?username=levinspiekermann&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔗 Connect with me
-- Twitter: [monolithfly](https://twitter.com/monolithfly)
-
-## 📫 Contact Me
-Feel free to reach out if you want to collaborate on any project or just to connect!
-- Email: [spiekermannlevin@gmail.com](mailto:spiekermannlevin@gmail.com)
-
